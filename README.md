@@ -17,7 +17,7 @@ Login :admin  /  PASSWORD :adminpwd
 II- 1)ADD NEW STUDENT
 
 
-![ADD](https://github.com/Khalyl98/gestion-etudiant/assets/105867644/264fd650-baa8-42bb-882e-599a6ff457b1
+![ADD](https://github.com/Khalyl98/gestion-etudiant/assets/105867644/264fd650-baa8-42bb-882e-599a6ff457b1)
 
 2)STUDENTS LIST 
 
